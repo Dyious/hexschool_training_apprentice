@@ -3,4 +3,4 @@
 
 紀錄-六角學院js學徒特訓班60天 看看60天後我進步了多少!
 
-詳情請看 [issues](https://github.com/Dyious/hexschool_training_apprentice/issues)
+所有關卡紀錄請看 [issues](https://github.com/Dyious/hexschool_training_apprentice/issues)
